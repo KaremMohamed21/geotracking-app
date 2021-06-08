@@ -1,0 +1,6 @@
+pusher:
+  appId: '1216487'
+  key: '3ab930e3807d3e53660a'
+  secret: '10da9cbbb9be9c9ad66b'
+  cluster: 'eu'
+  useTLS: true
